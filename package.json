@@ -1,0 +1,18 @@
+{
+  "name": "homebridge-weback",
+  "version": "1.0.0",
+  "description": "HomeKit integration with WeBack devices",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawnstrickland/homebridge-tesvor.git"
+  },
+  "author": "Shawn Strickland <sjstrick@me.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawnstrickland/homebridge-tesvor/issues"
+  },
+  "homepage": "https://github.com/shawnstrickland/homebridge-tesvor#readme"
+}

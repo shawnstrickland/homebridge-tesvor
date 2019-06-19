@@ -1,10 +1,10 @@
-# homebridge-tesvor
-Tesvor Sweeping Robot plugin for [HomeBridge](https://github.com/nfarina/homebridge)
+# homebridge-weback
+WeBack plugin for [HomeBridge](https://github.com/nfarina/homebridge)
 
 # Installation
 1. Install homebridge using: npm install -g homebridge
-2. Install this plugin using: npm install -g homebridge-tesvor
-3. Update your configuration file. See sample-config.json snippet below. 
+2. Install this plugin using: npm install -g homebridge-weback
+3. Update your configuration file. See sample-config.json snippet below.
 
 # Configuration
 
